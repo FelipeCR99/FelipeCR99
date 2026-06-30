@@ -34,4 +34,43 @@
 
 ---
 
-## 📚 Focus Areas 
+## 📚 Focus Areas | Áreas de enfoque
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Development-1572B6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Development" />
+  <img src="https://img.shields.io/badge/App%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="App Development" />
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Databases-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Databases" />
+</p>
+
+---
+
+## 📊 GitHub Stats | Estadísticas de GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FelipeCR99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCR99&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## 🌐 Connect with me | Conecta conmigo
+
+<p align="center">
+  <a href="https://github.com/FelipeCR99">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/FelipeCR99/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jfcastanedar99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+</p>
